@@ -1,4 +1,850 @@
 {
+    "YOTEKNO": {
+        "pseudo": "YOTEKNO",
+        "img": "/infographics/HD/yotekno.png",
+        "linkHD": "/infographics/HD/yotekno.png",
+        "lazyload": "/infographics/Lazyload/yotekno.png"
+    },
+    "AVEZIII_TTV": {
+        "pseudo": "AVEZIII_TTV",
+        "img": "/infographics/HD/aveziii_ttv.png",
+        "linkHD": "/infographics/HD/aveziii_ttv.png",
+        "lazyload": "/infographics/Lazyload/aveziii_ttv.png"
+    },
+    "WARRYANV2": {
+        "pseudo": "WARRYANV2",
+        "img": "/infographics/HD/warryanv2.png",
+        "linkHD": "/infographics/HD/warryanv2.png",
+        "lazyload": "/infographics/Lazyload/warryanv2.png"
+    },
+    "LODESU_": {
+        "pseudo": "LODESU_",
+        "img": "/infographics/HD/lodesu_.png",
+        "linkHD": "/infographics/HD/lodesu_.png",
+        "lazyload": "/infographics/Lazyload/lodesu_.png"
+    },
+    "MIMILOX_": {
+        "pseudo": "MIMILOX_",
+        "img": "/infographics/HD/mimilox_.png",
+        "linkHD": "/infographics/HD/mimilox_.png",
+        "lazyload": "/infographics/Lazyload/mimilox_.png"
+    },
+    "SKMATTEO": {
+        "pseudo": "SKMATTEO",
+        "img": "/infographics/HD/skmatteo.png",
+        "linkHD": "/infographics/HD/skmatteo.png",
+        "lazyload": "/infographics/Lazyload/skmatteo.png"
+    },
+    "MISTERFLIPPE": {
+        "pseudo": "MISTERFLIPPE",
+        "img": "/infographics/HD/misterflippe.png",
+        "linkHD": "/infographics/HD/misterflippe.png",
+        "lazyload": "/infographics/Lazyload/misterflippe.png"
+    },
+    "DANAKICK": {
+        "pseudo": "DANAKICK",
+        "img": "/infographics/HD/danakick.png",
+        "linkHD": "/infographics/HD/danakick.png",
+        "lazyload": "/infographics/Lazyload/danakick.png"
+    },
+    "BLIWOXLIVE": {
+        "pseudo": "BLIWOXLIVE",
+        "img": "/infographics/HD/bliwoxlive.png",
+        "linkHD": "/infographics/HD/bliwoxlive.png",
+        "lazyload": "/infographics/Lazyload/bliwoxlive.png"
+    },
+    "THEBLAGUE": {
+        "pseudo": "THEBLAGUE",
+        "img": "/infographics/HD/theblague.png",
+        "linkHD": "/infographics/HD/theblague.png",
+        "lazyload": "/infographics/Lazyload/theblague.png"
+    },
+    "WINGO": {
+        "pseudo": "WINGO",
+        "img": "/infographics/HD/wingo.png",
+        "linkHD": "/infographics/HD/wingo.png",
+        "lazyload": "/infographics/Lazyload/wingo.png"
+    },
+    "PONCE": {
+        "pseudo": "PONCE",
+        "img": "/infographics/HD/ponce.png",
+        "linkHD": "/infographics/HD/ponce.png",
+        "lazyload": "/infographics/Lazyload/ponce.png"
+    },
+    "BRASE_BS": {
+        "pseudo": "BRASE_BS",
+        "img": "/infographics/HD/brase_bs.png",
+        "linkHD": "/infographics/HD/brase_bs.png",
+        "lazyload": "/infographics/Lazyload/brase_bs.png"
+    },
+    "HEI5ENBERG44": {
+        "pseudo": "HEI5ENBERG44",
+        "img": "/infographics/HD/hei5enberg44.png",
+        "linkHD": "/infographics/HD/hei5enberg44.png",
+        "lazyload": "/infographics/Lazyload/hei5enberg44.png"
+    },
+    "WILLOUU_": {
+        "pseudo": "WILLOUU_",
+        "img": "/infographics/HD/willouu_.png",
+        "linkHD": "/infographics/HD/willouu_.png",
+        "lazyload": "/infographics/Lazyload/willouu_.png"
+    },
+    "TOMEOUU": {
+        "pseudo": "TOMEOUU",
+        "img": "/infographics/HD/tomeouu.png",
+        "linkHD": "/infographics/HD/tomeouu.png",
+        "lazyload": "/infographics/Lazyload/tomeouu.png"
+    },
+    "EVANJE_": {
+        "pseudo": "EVANJE_",
+        "img": "/infographics/HD/evanje_.png",
+        "linkHD": "/infographics/HD/evanje_.png",
+        "lazyload": "/infographics/Lazyload/evanje_.png"
+    },
+    "FUGU_FPS": {
+        "pseudo": "FUGU_FPS",
+        "img": "/infographics/HD/fugu_fps.png",
+        "linkHD": "/infographics/HD/fugu_fps.png",
+        "lazyload": "/infographics/Lazyload/fugu_fps.png"
+    },
+    "MISTERLEU": {
+        "pseudo": "MISTERLEU",
+        "img": "/infographics/HD/misterleu.png",
+        "linkHD": "/infographics/HD/misterleu.png",
+        "lazyload": "/infographics/Lazyload/misterleu.png"
+    },
+    "MATHIEU_BURGALASSI": {
+        "pseudo": "MATHIEU_BURGALASSI",
+        "img": "/infographics/HD/mathieu_burgalassi.png",
+        "linkHD": "/infographics/HD/mathieu_burgalassi.png",
+        "lazyload": "/infographics/Lazyload/mathieu_burgalassi.png"
+    },
+    "GINOSR_": {
+        "pseudo": "GINOSR_",
+        "img": "/infographics/HD/ginosr_.png",
+        "linkHD": "/infographics/HD/ginosr_.png",
+        "lazyload": "/infographics/Lazyload/ginosr_.png"
+    },
+    "IQIYU": {
+        "pseudo": "IQIYU",
+        "img": "/infographics/HD/iqiyu.png",
+        "linkHD": "/infographics/HD/iqiyu.png",
+        "lazyload": "/infographics/Lazyload/iqiyu.png"
+    },
+    "MEHDITDONC": {
+        "pseudo": "MEHDITDONC",
+        "img": "/infographics/HD/mehditdonc.png",
+        "linkHD": "/infographics/HD/mehditdonc.png",
+        "lazyload": "/infographics/Lazyload/mehditdonc.png"
+    },
+    "YATAZ_": {
+        "pseudo": "YATAZ_",
+        "img": "/infographics/HD/yataz_.png",
+        "linkHD": "/infographics/HD/yataz_.png",
+        "lazyload": "/infographics/Lazyload/yataz_.png"
+    },
+    "PERIGRIN": {
+        "pseudo": "PERIGRIN",
+        "img": "/infographics/HD/perigrin.png",
+        "linkHD": "/infographics/HD/perigrin.png",
+        "lazyload": "/infographics/Lazyload/perigrin.png"
+    },
+    "CAPTAINFRACAS": {
+        "pseudo": "CAPTAINFRACAS",
+        "img": "/infographics/HD/captainfracas.png",
+        "linkHD": "/infographics/HD/captainfracas.png",
+        "lazyload": "/infographics/Lazyload/captainfracas.png"
+    },
+    "FURGOTH": {
+        "pseudo": "FURGOTH",
+        "img": "/infographics/HD/furgoth.png",
+        "linkHD": "/infographics/HD/furgoth.png",
+        "lazyload": "/infographics/Lazyload/furgoth.png"
+    },
+    "SULF4T_": {
+        "pseudo": "SULF4T_",
+        "img": "/infographics/HD/sulf4t_.png",
+        "linkHD": "/infographics/HD/sulf4t_.png",
+        "lazyload": "/infographics/Lazyload/sulf4t_.png"
+    },
+    "PIC0O": {
+        "pseudo": "PIC0O",
+        "img": "/infographics/HD/pic0o.png",
+        "linkHD": "/infographics/HD/pic0o.png",
+        "lazyload": "/infographics/Lazyload/pic0o.png"
+    },
+    "W1NT3UR": {
+        "pseudo": "W1NT3UR",
+        "img": "/infographics/HD/w1nt3ur.png",
+        "linkHD": "/infographics/HD/w1nt3ur.png",
+        "lazyload": "/infographics/Lazyload/w1nt3ur.png"
+    },
+    "ELFUZZION": {
+        "pseudo": "ELFUZZION",
+        "img": "/infographics/HD/elfuzzion.png",
+        "linkHD": "/infographics/HD/elfuzzion.png",
+        "lazyload": "/infographics/Lazyload/elfuzzion.png"
+    },
+    "ZYNEROOO": {
+        "pseudo": "ZYNEROOO",
+        "img": "/infographics/HD/zynerooo.png",
+        "linkHD": "/infographics/HD/zynerooo.png",
+        "lazyload": "/infographics/Lazyload/zynerooo.png"
+    },
+    "POURQUOI008": {
+        "pseudo": "POURQUOI008",
+        "img": "/infographics/HD/pourquoi008.png",
+        "linkHD": "/infographics/HD/pourquoi008.png",
+        "lazyload": "/infographics/Lazyload/pourquoi008.png"
+    },
+    "SHARFIX___": {
+        "pseudo": "SHARFIX___",
+        "img": "/infographics/HD/sharfix___.png",
+        "linkHD": "/infographics/HD/sharfix___.png",
+        "lazyload": "/infographics/Lazyload/sharfix___.png"
+    },
+    "ALEKQSS_": {
+        "pseudo": "ALEKQSS_",
+        "img": "/infographics/HD/alekqss_.png",
+        "linkHD": "/infographics/HD/alekqss_.png",
+        "lazyload": "/infographics/Lazyload/alekqss_.png"
+    },
+    "LEXITVZ": {
+        "pseudo": "LEXITVZ",
+        "img": "/infographics/HD/lexitvz.png",
+        "linkHD": "/infographics/HD/lexitvz.png",
+        "lazyload": "/infographics/Lazyload/lexitvz.png"
+    },
+    "KEMIST_C10H15N": {
+        "pseudo": "KEMIST_C10H15N",
+        "img": "/infographics/HD/kemist_c10h15n.png",
+        "linkHD": "/infographics/HD/kemist_c10h15n.png",
+        "lazyload": "/infographics/Lazyload/kemist_c10h15n.png"
+    },
+    "NOSAPHI": {
+        "pseudo": "NOSAPHI",
+        "img": "/infographics/HD/nosaphi.png",
+        "linkHD": "/infographics/HD/nosaphi.png",
+        "lazyload": "/infographics/Lazyload/nosaphi.png"
+    },
+    "LOWES_MAJOR": {
+        "pseudo": "LOWES_MAJOR",
+        "img": "/infographics/HD/lowes_major.png",
+        "linkHD": "/infographics/HD/lowes_major.png",
+        "lazyload": "/infographics/Lazyload/lowes_major.png"
+    },
+    "PANTOUFL": {
+        "pseudo": "PANTOUFL",
+        "img": "/infographics/HD/pantoufl.png",
+        "linkHD": "/infographics/HD/pantoufl.png",
+        "lazyload": "/infographics/Lazyload/pantoufl.png"
+    },
+    "ZAARDOZ": {
+        "pseudo": "ZAARDOZ",
+        "img": "/infographics/HD/zaardoz.png",
+        "linkHD": "/infographics/HD/zaardoz.png",
+        "lazyload": "/infographics/Lazyload/zaardoz.png"
+    },
+    "EGOSHII": {
+        "pseudo": "EGOSHII",
+        "img": "/infographics/HD/egoshii.png",
+        "linkHD": "/infographics/HD/egoshii.png",
+        "lazyload": "/infographics/Lazyload/egoshii.png"
+    },
+    "ROMAINJACQUES_": {
+        "pseudo": "ROMAINJACQUES_",
+        "img": "/infographics/HD/romainjacques_.png",
+        "linkHD": "/infographics/HD/romainjacques_.png",
+        "lazyload": "/infographics/Lazyload/romainjacques_.png"
+    },
+    "YANNEX": {
+        "pseudo": "YANNEX",
+        "img": "/infographics/HD/yannex.png",
+        "linkHD": "/infographics/HD/yannex.png",
+        "lazyload": "/infographics/Lazyload/yannex.png"
+    },
+    "REZNOV246": {
+        "pseudo": "REZNOV246",
+        "img": "/infographics/HD/reznov246.png",
+        "linkHD": "/infographics/HD/reznov246.png",
+        "lazyload": "/infographics/Lazyload/reznov246.png"
+    },
+    "COSMO_37": {
+        "pseudo": "COSMO_37",
+        "img": "/infographics/HD/cosmo_37.png",
+        "linkHD": "/infographics/HD/cosmo_37.png",
+        "lazyload": "/infographics/Lazyload/cosmo_37.png"
+    },
+    "NOSCO_OFF": {
+        "pseudo": "NOSCO_OFF",
+        "img": "/infographics/HD/nosco_off.png",
+        "linkHD": "/infographics/HD/nosco_off.png",
+        "lazyload": "/infographics/Lazyload/nosco_off.png"
+    },
+    "MATHYS__08": {
+        "pseudo": "MATHYS__08",
+        "img": "/infographics/HD/mathys__08.png",
+        "linkHD": "/infographics/HD/mathys__08.png",
+        "lazyload": "/infographics/Lazyload/mathys__08.png"
+    },
+    "BLACKI_STREAM": {
+        "pseudo": "BLACKI_STREAM",
+        "img": "/infographics/HD/blacki_stream.png",
+        "linkHD": "/infographics/HD/blacki_stream.png",
+        "lazyload": "/infographics/Lazyload/blacki_stream.png"
+    },
+    "ASZFEU": {
+        "pseudo": "ASZFEU",
+        "img": "/infographics/HD/aszfeu.png",
+        "linkHD": "/infographics/HD/aszfeu.png",
+        "lazyload": "/infographics/Lazyload/aszfeu.png"
+    },
+    "LEGENDBONOBO": {
+        "pseudo": "LEGENDBONOBO",
+        "img": "/infographics/HD/legendbonobo.png",
+        "linkHD": "/infographics/HD/legendbonobo.png",
+        "lazyload": "/infographics/Lazyload/legendbonobo.png"
+    },
+    "NAMELESSHSEU": {
+        "pseudo": "NAMELESSHSEU",
+        "img": "/infographics/HD/namelesshseu.png",
+        "linkHD": "/infographics/HD/namelesshseu.png",
+        "lazyload": "/infographics/Lazyload/namelesshseu.png"
+    },
+    "LEVRAIGAZI": {
+        "pseudo": "LEVRAIGAZI",
+        "img": "/infographics/HD/levraigazi.png",
+        "linkHD": "/infographics/HD/levraigazi.png",
+        "lazyload": "/infographics/Lazyload/levraigazi.png"
+    },
+    "ELTRIWI": {
+        "pseudo": "ELTRIWI",
+        "img": "/infographics/HD/eltriwi.png",
+        "linkHD": "/infographics/HD/eltriwi.png",
+        "lazyload": "/infographics/Lazyload/eltriwi.png"
+    },
+    "HEPHYRO": {
+        "pseudo": "HEPHYRO",
+        "img": "/infographics/HD/hephyro.png",
+        "linkHD": "/infographics/HD/hephyro.png",
+        "lazyload": "/infographics/Lazyload/hephyro.png"
+    },
+    "COMO63": {
+        "pseudo": "COMO63",
+        "img": "/infographics/HD/como63.png",
+        "linkHD": "/infographics/HD/como63.png",
+        "lazyload": "/infographics/Lazyload/como63.png"
+    },
+    "GKOBLE": {
+        "pseudo": "GKOBLE",
+        "img": "/infographics/HD/gkoble.png",
+        "linkHD": "/infographics/HD/gkoble.png",
+        "lazyload": "/infographics/Lazyload/gkoble.png"
+    },
+    "CHLOE": {
+        "pseudo": "CHLOE",
+        "img": "/infographics/HD/chloe.png",
+        "linkHD": "/infographics/HD/chloe.png",
+        "lazyload": "/infographics/Lazyload/chloe.png"
+    },
+    "DEVGIRL_": {
+        "pseudo": "DEVGIRL_",
+        "img": "/infographics/HD/devgirl_.png",
+        "linkHD": "/infographics/HD/devgirl_.png",
+        "lazyload": "/infographics/Lazyload/devgirl_.png"
+    },
+    "ALIIGON": {
+        "pseudo": "ALIIGON",
+        "img": "/infographics/HD/aliigon.png",
+        "linkHD": "/infographics/HD/aliigon.png",
+        "lazyload": "/infographics/Lazyload/aliigon.png"
+    },
+    "RIBOZOME": {
+        "pseudo": "RIBOZOME",
+        "img": "/infographics/HD/ribozome.png",
+        "linkHD": "/infographics/HD/ribozome.png",
+        "lazyload": "/infographics/Lazyload/ribozome.png"
+    },
+    "ERASTEM": {
+        "pseudo": "ERASTEM",
+        "img": "/infographics/HD/erastem.png",
+        "linkHD": "/infographics/HD/erastem.png",
+        "lazyload": "/infographics/Lazyload/erastem.png"
+    },
+    "GASPOWRL": {
+        "pseudo": "GASPOWRL",
+        "img": "/infographics/HD/gaspowrl.png",
+        "linkHD": "/infographics/HD/gaspowrl.png",
+        "lazyload": "/infographics/Lazyload/gaspowrl.png"
+    },
+    "KAILON": {
+        "pseudo": "KAILON",
+        "img": "/infographics/HD/kailon.png",
+        "linkHD": "/infographics/HD/kailon.png",
+        "lazyload": "/infographics/Lazyload/kailon.png"
+    },
+    "TSUNADIDA": {
+        "pseudo": "TSUNADIDA",
+        "img": "/infographics/HD/tsunadida.png",
+        "linkHD": "/infographics/HD/tsunadida.png",
+        "lazyload": "/infographics/Lazyload/tsunadida.png"
+    },
+    "LUTTI": {
+        "pseudo": "LUTTI",
+        "img": "/infographics/HD/lutti.png",
+        "linkHD": "/infographics/HD/lutti.png",
+        "lazyload": "/infographics/Lazyload/lutti.png"
+    },
+    "DRFEELGOOD": {
+        "pseudo": "DRFEELGOOD",
+        "img": "/infographics/HD/drfeelgood.png",
+        "linkHD": "/infographics/HD/drfeelgood.png",
+        "lazyload": "/infographics/Lazyload/drfeelgood.png"
+    },
+    "SHAUNZ": {
+        "pseudo": "SHAUNZ",
+        "img": "/infographics/HD/shaunz.png",
+        "linkHD": "/infographics/HD/shaunz.png",
+        "lazyload": "/infographics/Lazyload/shaunz.png"
+    },
+    "KHA_LEN": {
+        "pseudo": "KHA_LEN",
+        "img": "/infographics/HD/kha_len.png",
+        "linkHD": "/infographics/HD/kha_len.png",
+        "lazyload": "/infographics/Lazyload/kha_len.png"
+    },
+    "DHALEN": {
+        "pseudo": "DHALEN",
+        "img": "/infographics/HD/dhalen.png",
+        "linkHD": "/infographics/HD/dhalen.png",
+        "lazyload": "/infographics/Lazyload/dhalen.png"
+    },
+    "BICHARD": {
+        "pseudo": "BICHARD",
+        "img": "/infographics/HD/bichard.png",
+        "linkHD": "/infographics/HD/bichard.png",
+        "lazyload": "/infographics/Lazyload/bichard.png"
+    },
+    "BLAZX": {
+        "pseudo": "BLAZX",
+        "img": "/infographics/HD/blazx.png",
+        "linkHD": "/infographics/HD/blazx.png",
+        "lazyload": "/infographics/Lazyload/blazx.png"
+    },
+    "STELLIOSOW": {
+        "pseudo": "STELLIOSOW",
+        "img": "/infographics/HD/stelliosow.png",
+        "linkHD": "/infographics/HD/stelliosow.png",
+        "lazyload": "/infographics/Lazyload/stelliosow.png"
+    },
+    "FDGOD_OW": {
+        "pseudo": "FDGOD_OW",
+        "img": "/infographics/HD/fdgod_ow.png",
+        "linkHD": "/infographics/HD/fdgod_ow.png",
+        "lazyload": "/infographics/Lazyload/fdgod_ow.png"
+    },
+    "CHAAB": {
+        "pseudo": "CHAAB",
+        "img": "/infographics/HD/chaab.png",
+        "linkHD": "/infographics/HD/chaab.png",
+        "lazyload": "/infographics/Lazyload/chaab.png"
+    },
+    "SIXONEZIL": {
+        "pseudo": "SIXONEZIL",
+        "img": "/infographics/HD/sixonezil.png",
+        "linkHD": "/infographics/HD/sixonezil.png",
+        "lazyload": "/infographics/Lazyload/sixonezil.png"
+    },
+    "SUNDAE": {
+        "pseudo": "SUNDAE",
+        "img": "/infographics/HD/sundae.png",
+        "linkHD": "/infographics/HD/sundae.png",
+        "lazyload": "/infographics/Lazyload/sundae.png"
+    },
+    "SAMUELETIENNE": {
+        "pseudo": "SAMUELETIENNE",
+        "img": "/infographics/HD/samueletienne.png",
+        "linkHD": "/infographics/HD/samueletienne.png",
+        "lazyload": "/infographics/Lazyload/samueletienne.png"
+    },
+    "EYMRYC": {
+        "pseudo": "EYMRYC",
+        "img": "/infographics/HD/eymryc.png",
+        "linkHD": "/infographics/HD/eymryc.png",
+        "lazyload": "/infographics/Lazyload/eymryc.png"
+    },
+    "LANIYELLE": {
+        "pseudo": "LANIYELLE",
+        "img": "/infographics/HD/laniyelle.png",
+        "linkHD": "/infographics/HD/laniyelle.png",
+        "lazyload": "/infographics/Lazyload/laniyelle.png"
+    },
+    "JLTOMY": {
+        "pseudo": "JLTOMY",
+        "img": "/infographics/HD/jltomy.png",
+        "linkHD": "/infographics/HD/jltomy.png",
+        "lazyload": "/infographics/Lazyload/jltomy.png"
+    },
+    "DALIL": {
+        "pseudo": "DALIL",
+        "img": "/infographics/HD/dalil.png",
+        "linkHD": "/infographics/HD/dalil.png",
+        "lazyload": "/infographics/Lazyload/dalil.png"
+    },
+    "JULGANE": {
+        "pseudo": "JULGANE",
+        "img": "/infographics/HD/julgane.png",
+        "linkHD": "/infographics/HD/julgane.png",
+        "lazyload": "/infographics/Lazyload/julgane.png"
+    },
+    "POKO": {
+        "pseudo": "POKO",
+        "img": "/infographics/HD/poko.png",
+        "linkHD": "/infographics/HD/poko.png",
+        "lazyload": "/infographics/Lazyload/poko.png"
+    },
+    "SOON": {
+        "pseudo": "SOON",
+        "img": "/infographics/HD/soon.png",
+        "linkHD": "/infographics/HD/soon.png",
+        "lazyload": "/infographics/Lazyload/soon.png"
+    },
+    "JIMMYBOYYY": {
+        "pseudo": "JIMMYBOYYY",
+        "img": "/infographics/HD/jimmyboyyy.png",
+        "linkHD": "/infographics/HD/jimmyboyyy.png",
+        "lazyload": "/infographics/Lazyload/jimmyboyyy.png"
+    },
+    "MARTINPONK": {
+        "pseudo": "MARTINPONK",
+        "img": "/infographics/HD/martinponk.png",
+        "linkHD": "/infographics/HD/martinponk.png",
+        "lazyload": "/infographics/Lazyload/martinponk.png"
+    },
+    "BOBLEGOB": {
+        "pseudo": "BOBLEGOB",
+        "img": "/infographics/HD/boblegob.png",
+        "linkHD": "/infographics/HD/boblegob.png",
+        "lazyload": "/infographics/Lazyload/boblegob.png"
+    },
+    "AKHIZONAH": {
+        "pseudo": "AKHIZONAH",
+        "img": "/infographics/HD/akhizonah.png",
+        "linkHD": "/infographics/HD/akhizonah.png",
+        "lazyload": "/infographics/Lazyload/akhizonah.png"
+    },
+    "SANNY_GRR": {
+        "pseudo": "SANNY_GRR",
+        "img": "/infographics/HD/sanny_grr.png",
+        "linkHD": "/infographics/HD/sanny_grr.png",
+        "lazyload": "/infographics/Lazyload/sanny_grr.png"
+    },
+    "PALOOU7": {
+        "pseudo": "PALOOU7",
+        "img": "/infographics/HD/paloou7.png",
+        "linkHD": "/infographics/HD/paloou7.png",
+        "lazyload": "/infographics/Lazyload/paloou7.png"
+    },
+    "LEPIRATEROUX": {
+        "pseudo": "LEPIRATEROUX",
+        "img": "/infographics/HD/lepirateroux.png",
+        "linkHD": "/infographics/HD/lepirateroux.png",
+        "lazyload": "/infographics/Lazyload/lepirateroux.png"
+    },
+    "WANTV1": {
+        "pseudo": "WANTV1",
+        "img": "/infographics/HD/wantv1.png",
+        "linkHD": "/infographics/HD/wantv1.png",
+        "lazyload": "/infographics/Lazyload/wantv1.png"
+    },
+    "TAVAA": {
+        "pseudo": "TAVAA",
+        "img": "/infographics/HD/tavaa.png",
+        "linkHD": "/infographics/HD/tavaa.png",
+        "lazyload": "/infographics/Lazyload/tavaa.png"
+    },
+    "EXPERIENCESPORT": {
+        "pseudo": "EXPERIENCESPORT",
+        "img": "/infographics/HD/experiencesport.png",
+        "linkHD": "/infographics/HD/experiencesport.png",
+        "lazyload": "/infographics/Lazyload/experiencesport.png"
+    },
+    "WARKIK": {
+        "pseudo": "WARKIK",
+        "img": "/infographics/HD/warkik.png",
+        "linkHD": "/infographics/HD/warkik.png",
+        "lazyload": "/infographics/Lazyload/warkik.png"
+    },
+    "PIRASTACK": {
+        "pseudo": "PIRASTACK",
+        "img": "/infographics/HD/pirastack.png",
+        "linkHD": "/infographics/HD/pirastack.png",
+        "lazyload": "/infographics/Lazyload/pirastack.png"
+    },
+    "ANAEE": {
+        "pseudo": "ANAEE",
+        "img": "/infographics/HD/anaee.png",
+        "linkHD": "/infographics/HD/anaee.png",
+        "lazyload": "/infographics/Lazyload/anaee.png"
+    },
+    "ASPIG": {
+        "pseudo": "ASPIG",
+        "img": "/infographics/HD/aspig.png",
+        "linkHD": "/infographics/HD/aspig.png",
+        "lazyload": "/infographics/Lazyload/aspig.png"
+    },
+    "RISES": {
+        "pseudo": "RISES",
+        "img": "/infographics/HD/rises.png",
+        "linkHD": "/infographics/HD/rises.png",
+        "lazyload": "/infographics/Lazyload/rises.png"
+    },
+    "ARELIANN": {
+        "pseudo": "ARELIANN",
+        "img": "/infographics/HD/areliann.png",
+        "linkHD": "/infographics/HD/areliann.png",
+        "lazyload": "/infographics/Lazyload/areliann.png"
+    },
+    "CRUELLADK": {
+        "pseudo": "CRUELLADK",
+        "img": "/infographics/HD/cruelladk.png",
+        "linkHD": "/infographics/HD/cruelladk.png",
+        "lazyload": "/infographics/Lazyload/cruelladk.png"
+    },
+    "MONODIE": {
+        "pseudo": "MONODIE",
+        "img": "/infographics/HD/monodie.png",
+        "linkHD": "/infographics/HD/monodie.png",
+        "lazyload": "/infographics/Lazyload/monodie.png"
+    },
+    "KIVVI_": {
+        "pseudo": "KIVVI_",
+        "img": "/infographics/HD/kivvi_.png",
+        "linkHD": "/infographics/HD/kivvi_.png",
+        "lazyload": "/infographics/Lazyload/kivvi_.png"
+    },
+    "THEGUILL84": {
+        "pseudo": "THEGUILL84",
+        "img": "/infographics/HD/theguill84.png",
+        "linkHD": "/infographics/HD/theguill84.png",
+        "lazyload": "/infographics/Lazyload/theguill84.png"
+    },
+    "NAGATOW": {
+        "pseudo": "NAGATOW",
+        "img": "/infographics/HD/nagatow.png",
+        "linkHD": "/infographics/HD/nagatow.png",
+        "lazyload": "/infographics/Lazyload/nagatow.png"
+    },
+    "LAYTHO_": {
+        "pseudo": "LAYTHO_",
+        "img": "/infographics/HD/laytho_.png",
+        "linkHD": "/infographics/HD/laytho_.png",
+        "lazyload": "/infographics/Lazyload/laytho_.png"
+    },
+    "RAUMANE": {
+        "pseudo": "RAUMANE",
+        "img": "/infographics/HD/raumane.png",
+        "linkHD": "/infographics/HD/raumane.png",
+        "lazyload": "/infographics/Lazyload/raumane.png"
+    },
+    "CLEM_MLRT": {
+        "pseudo": "CLEM_MLRT",
+        "img": "/infographics/HD/clem_mlrt.png",
+        "linkHD": "/infographics/HD/clem_mlrt.png",
+        "lazyload": "/infographics/Lazyload/clem_mlrt.png"
+    },
+    "ARKANTORS": {
+        "pseudo": "ARKANTORS",
+        "img": "/infographics/HD/arkantors.png",
+        "linkHD": "/infographics/HD/arkantors.png",
+        "lazyload": "/infographics/Lazyload/arkantors.png"
+    },
+    "KYRIATV": {
+        "pseudo": "KYRIATV",
+        "img": "/infographics/HD/kyriatv.png",
+        "linkHD": "/infographics/HD/kyriatv.png",
+        "lazyload": "/infographics/Lazyload/kyriatv.png"
+    },
+    "HELLIODAR": {
+        "pseudo": "HELLIODAR",
+        "img": "/infographics/HD/helliodar.png",
+        "linkHD": "/infographics/HD/helliodar.png",
+        "lazyload": "/infographics/Lazyload/helliodar.png"
+    },
+    "TONEEUW": {
+        "pseudo": "TONEEUW",
+        "img": "/infographics/HD/toneeuw.png",
+        "linkHD": "/infographics/HD/toneeuw.png",
+        "lazyload": "/infographics/Lazyload/toneeuw.png"
+    },
+    "OSLO": {
+        "pseudo": "OSLO",
+        "img": "/infographics/HD/oslo.png",
+        "linkHD": "/infographics/HD/oslo.png",
+        "lazyload": "/infographics/Lazyload/oslo.png"
+    },
+    "MICKALOW": {
+        "pseudo": "MICKALOW",
+        "img": "/infographics/HD/mickalow.png",
+        "linkHD": "/infographics/HD/mickalow.png",
+        "lazyload": "/infographics/Lazyload/mickalow.png"
+    },
+    "JIDUN": {
+        "pseudo": "JIDUN",
+        "img": "/infographics/HD/jidun.png",
+        "linkHD": "/infographics/HD/jidun.png",
+        "lazyload": "/infographics/Lazyload/jidun.png"
+    },
+    "PINGOUIN23": {
+        "pseudo": "PINGOUIN23",
+        "img": "/infographics/HD/pingouin23.png",
+        "linkHD": "/infographics/HD/pingouin23.png",
+        "lazyload": "/infographics/Lazyload/pingouin23.png"
+    },
+    "FAKEMONSTER": {
+        "pseudo": "FAKEMONSTER",
+        "img": "/infographics/HD/fakemonster.png",
+        "linkHD": "/infographics/HD/fakemonster.png",
+        "lazyload": "/infographics/Lazyload/fakemonster.png"
+    },
+    "WATI": {
+        "pseudo": "WATI",
+        "img": "/infographics/HD/wati.png",
+        "linkHD": "/infographics/HD/wati.png",
+        "lazyload": "/infographics/Lazyload/wati.png"
+    },
+    "SHISHEYU": {
+        "pseudo": "SHISHEYU",
+        "img": "/infographics/HD/shisheyu.png",
+        "linkHD": "/infographics/HD/shisheyu.png",
+        "lazyload": "/infographics/Lazyload/shisheyu.png"
+    },
+    "ONUTREM": {
+        "pseudo": "ONUTREM",
+        "img": "/infographics/HD/onutrem.png",
+        "linkHD": "/infographics/HD/onutrem.png",
+        "lazyload": "/infographics/Lazyload/onutrem.png"
+    },
+    "CHREAK": {
+        "pseudo": "CHREAK",
+        "img": "/infographics/HD/chreak.png",
+        "linkHD": "/infographics/HD/chreak.png",
+        "lazyload": "/infographics/Lazyload/chreak.png"
+    },
+    "WAKZLOL": {
+        "pseudo": "WAKZLOL",
+        "img": "/infographics/HD/wakzlol.png",
+        "linkHD": "/infographics/HD/wakzlol.png",
+        "lazyload": "/infographics/Lazyload/wakzlol.png"
+    },
+    "QASSIMIENTO": {
+        "pseudo": "QASSIMIENTO",
+        "img": "/infographics/HD/qassimiento.png",
+        "linkHD": "/infographics/HD/qassimiento.png",
+        "lazyload": "/infographics/Lazyload/qassimiento.png"
+    },
+    "HAKAIWRLD": {
+        "pseudo": "HAKAIWRLD",
+        "img": "/infographics/HD/hakaiwrld.png",
+        "linkHD": "/infographics/HD/hakaiwrld.png",
+        "lazyload": "/infographics/Lazyload/hakaiwrld.png"
+    },
+    "CROCODYLETV": {
+        "pseudo": "CROCODYLETV",
+        "img": "/infographics/HD/crocodyletv.png",
+        "linkHD": "/infographics/HD/crocodyletv.png",
+        "lazyload": "/infographics/Lazyload/crocodyletv.png"
+    },
+    "SAKOR_": {
+        "pseudo": "SAKOR_",
+        "img": "/infographics/HD/sakor_.png",
+        "linkHD": "/infographics/HD/sakor_.png",
+        "lazyload": "/infographics/Lazyload/sakor_.png"
+    },
+    "SIXENTV": {
+        "pseudo": "SIXENTV",
+        "img": "/infographics/HD/sixentv.png",
+        "linkHD": "/infographics/HD/sixentv.png",
+        "lazyload": "/infographics/Lazyload/sixentv.png"
+    },
+    "JACKDARIUS": {
+        "pseudo": "JACKDARIUS",
+        "img": "/infographics/HD/jackdarius.png",
+        "linkHD": "/infographics/HD/jackdarius.png",
+        "lazyload": "/infographics/Lazyload/jackdarius.png"
+    },
+    "RABENAS": {
+        "pseudo": "RABENAS",
+        "img": "/infographics/HD/rabenas.png",
+        "linkHD": "/infographics/HD/rabenas.png",
+        "lazyload": "/infographics/Lazyload/rabenas.png"
+    },
+    "CROISSANTSTRIKETV": {
+        "pseudo": "CROISSANTSTRIKETV",
+        "img": "/infographics/HD/croissantstriketv.png",
+        "linkHD": "/infographics/HD/croissantstriketv.png",
+        "lazyload": "/infographics/Lazyload/croissantstriketv.png"
+    },
+    "YOUBY4": {
+        "pseudo": "YOUBY4",
+        "img": "/infographics/HD/youby4.png",
+        "linkHD": "/infographics/HD/youby4.png",
+        "lazyload": "/infographics/Lazyload/youby4.png"
+    },
+    "SARDOCHE": {
+        "pseudo": "SARDOCHE",
+        "img": "/infographics/HD/sardoche.png",
+        "linkHD": "/infographics/HD/sardoche.png",
+        "lazyload": "/infographics/Lazyload/sardoche.png"
+    },
+    "BOTKZ": {
+        "pseudo": "BOTKZ",
+        "img": "/infographics/HD/botkz.png",
+        "linkHD": "/infographics/HD/botkz.png",
+        "lazyload": "/infographics/Lazyload/botkz.png"
+    },
+    "HAMZAKERDALOCO": {
+        "pseudo": "HAMZAKERDALOCO",
+        "img": "/infographics/HD/hamzakerdaloco.png",
+        "linkHD": "/infographics/HD/hamzakerdaloco.png",
+        "lazyload": "/infographics/Lazyload/hamzakerdaloco.png"
+    },
+    "MALM": {
+        "pseudo": "MALM",
+        "img": "/infographics/HD/malm.png",
+        "linkHD": "/infographics/HD/malm.png",
+        "lazyload": "/infographics/Lazyload/malm.png"
+    },
+    "NYKHO": {
+        "pseudo": "NYKHO",
+        "img": "/infographics/HD/nykho.png",
+        "linkHD": "/infographics/HD/nykho.png",
+        "lazyload": "/infographics/Lazyload/nykho.png"
+    },
+    "CYQOP": {
+        "pseudo": "CYQOP",
+        "img": "/infographics/HD/cyqop.png",
+        "linkHD": "/infographics/HD/cyqop.png",
+        "lazyload": "/infographics/Lazyload/cyqop.png"
+    },
+    "GEETS_": {
+        "pseudo": "GEETS_",
+        "img": "/infographics/HD/geets_.png",
+        "linkHD": "/infographics/HD/geets_.png",
+        "lazyload": "/infographics/Lazyload/geets_.png"
+    },
+    "KENNYSTREAM": {
+        "pseudo": "KENNYSTREAM",
+        "img": "/infographics/HD/kennystream.png",
+        "linkHD": "/infographics/HD/kennystream.png",
+        "lazyload": "/infographics/Lazyload/kennystream.png"
+    },
+    "LOCKNESS06": {
+        "pseudo": "LOCKNESS06",
+        "img": "/infographics/HD/lockness06.png",
+        "linkHD": "/infographics/HD/lockness06.png",
+        "lazyload": "/infographics/Lazyload/lockness06.png"
+    },
     "ZERATOR": {
         "pseudo": "ZERATOR",
         "img": "/infographics/HD/zerator.png",

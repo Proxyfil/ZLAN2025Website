@@ -56,7 +56,7 @@ export default {
     <div class="w-full grid grid-cols-6 gap-x-4 gap-y-6 mt-8" v-if="selected == 'Tous'" id="infographics">
       <div class="flex flex-col items-center" v-for="option in Object.keys(streamersData).sort()" v-bind:key="option">
         <a v-bind:href="streamersData[option].linkHD" target="_blank" class="min-h-[300px] blur-load" v-bind:style="{ 'background-image': 'url(' + streamersData[option].lazyload + ')' }"><img class="w-72 min-h-full" v-bind:alt="option" v-bind:src="streamersData[option].img" loading="lazy"></a>
-        <p class="text-white mt-2">{{ option }}</p>
+        <p class="text-white mt-2">// {{ option }} //</p>
       </div>
     </div>
     <div class="w-full flex justify-center gap-4 mt-8" v-else-if="selected != ''">
@@ -78,9 +78,40 @@ export default {
 
 <style scoped>
 #select {
-  background-color: #101010A0;
+  background-color: #57f200;
   border: #57f200 1px solid;
-  border-radius: 10px;
+  border-radius: 5px;
+  color: #101010;
+  font-weight: bold;
+}
+
+#select option {
+  background-color: #57f200;
+  color: #101010;
+  font-weight: bold;
+}
+
+#infographics div p {
+  color: #57f200;
+  font-weight: bold;
+}
+
+#infographics div img {
+  transition: all 0.2s ease-in-out;
+}
+
+#infographics div img:hover {
+  transform: scale(1.02);
+  box-shadow: #57f200 0px 0px 10px;
+}
+
+#infographics_global div img {
+  transition: all 0.2s ease-in-out;
+}
+
+#infographics_global div img:hover {
+  transform: scale(1.02);
+  box-shadow: #57f200 0px 0px 10px;
 }
 
 .blur-load {
